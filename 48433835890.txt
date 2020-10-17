@@ -1,0 +1,7 @@
+Nome: Claudia
+CPF: 48433835890
+Conta: Salario
+Data: 11/10/2018 03:26   +            100.00                       Tarifa:                  0.00                    Saldo:              100.00
+Data: 11/10/2018 03:26   +            400.00                       Tarifa:                  0.00                    Saldo:              500.00
+Data: 11/10/2018 03:26   +            300.00                       Tarifa:                  0.00                    Saldo:              800.00
+Data: 11/10/2018 03:26   -            200.00                       Tarifa:                 10.00                    Saldo:              590.00

@@ -1,0 +1,8 @@
+Nome: Mauro
+CPF: 06838957299
+Conta: Comum
+Data: 11/10/2018 03:26   +            200.00                       Tarifa:                  0.00                    Saldo:              200.00
+Data: 11/10/2018 03:26   -            400.00                       Tarifa:                 12.00                    Saldo:             -212.00
+Data: 11/10/2018 03:26   -            220.00                       Tarifa:                  6.60                    Saldo:             -438.60
+Data: 11/10/2018 03:26   +           2000.00                       Tarifa:                  0.00                    Saldo:             1561.40
+Data: 11/10/2018 03:26   +           1500.00                       Tarifa:                  0.00                    Saldo:             3061.40
